@@ -1,4 +1,4 @@
-let tempF = 72;
+let tempF = 2;
 
 switch (true) {
     case tempF > 95:
